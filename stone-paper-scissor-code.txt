@@ -8,7 +8,6 @@ a="stone"
 b="paper"
 c="scissor"
 
-
 def stone():
     global a
     print "you choose " + a 
@@ -27,14 +26,11 @@ def stone():
         b="scissor"
         print "computer chooses " + b
         print "you loose"
-   
-    
-    
+           
 def paper():
     global b
     print "you choose " + b
     c=random.randrange(1,4)
-    
     if c==1:
         c=str(1)
         c="stone"
