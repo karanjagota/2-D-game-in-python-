@@ -6,7 +6,7 @@ A simple miniproject i developed while learning the basics of python </br>
 <b>How To Play this game with computer ? </b><br> 
 1. Go to: [http://www.codeskulptor.org/] 
 2. Paste the code from source code into CODESKULPTER IDE
-3. Press Run 
-</BR></br>
+3. Press Run
 
-
+<b>Screenshot </b></br></br> 
+![rock paper scissor](https://cloud.githubusercontent.com/assets/7979139/24019521/5520219e-0abe-11e7-90cc-8e2ba75e0958.png)
