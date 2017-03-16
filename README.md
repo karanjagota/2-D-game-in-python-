@@ -1,12 +1,12 @@
-2-D-game-in-python-
-===================
+# Stone Paper or Scissor
+A simple miniproject i developed while learning the basics of python </br>
 
-stone-paper-scissor
+<b>About Stone Paper Scissor :</b></br> Stone-Paper-Scissor or Rock-Paper-Scissor is a zero-sum hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (✊ a simple fist), "paper" (✋ a flat hand), and "scissors" (✌️ a fist with the index and middle fingers together forming a V). The game has only three possible outcomes other than a tie: a player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors") but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cut paper"). If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie.</br>
 
-A simple miniproject while learning python .
-play a game with the computer , simply click 1 of the three buttons stone or paper or scissor to choose your option .
-then the computer randomly chooses his option and will display 'who wins' the result is based on the criteria that 
-the "stone" beats scissors, the "scissors" beat paper and the "paper" beats rock; if both you and the computer 
-chooses same then , the game is tied .
-if you are interested  to play  the game with computer , simply copy the code of src.txt file and paste it in 
-codeskulpter.org website's compiler and press run . 
+<b>How To Play this game with computer ? </b><br> 
+1. Go to: [http://www.codeskulptor.org/] 
+2. Paste the code from source code into CODESKULPTER IDE
+3. Press Run 
+</BR></br>
+
+
